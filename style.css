@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #AB47BC;
+}
+
+.container {
+	margin-top: 235px;
+}
+
+h1 {
+	font-size: 75px;
+	color: #F3E5F5;
+	font-weight: bolder;
+}
+
+h1:hover {
+	color: #EC407A;
+	font-size: 80px
+}
+
+p {
+	letter-spacing: 3px;
+	font-size: 27px;
+	color: #6A1B9A;
+	font-weight: bold;
+}

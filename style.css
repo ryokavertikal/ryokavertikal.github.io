@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #AB47BC;
+	background: #009688;
 }
 
 .container {
@@ -22,6 +22,7 @@ h1:hover {
 p {
 	letter-spacing: 3px;
 	font-size: 27px;
-	color: #6A1B9A;
+	color: #616161;
 	font-weight: bold;
+        margin-bottom: 35px;
 }

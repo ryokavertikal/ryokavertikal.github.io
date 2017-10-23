@@ -6,6 +6,7 @@ body {
 
 .container {
 	margin-top: 235px;
+	margin-bottom: 215px;
 }
 
 h1 {
@@ -24,5 +25,4 @@ p {
 	font-size: 27px;
 	color: #616161;
 	font-weight: bold;
-        margin-bottom: 35px;
 }

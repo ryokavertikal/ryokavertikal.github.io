@@ -5,7 +5,7 @@ body {
 
 .bg-site {
   position: absolute;
-  background: url('../img/fr.jpg');
+  background: url('https://strooton.sirv.com/rex.jpg');
   background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body {
 }
 
 .fog-1 {
-  background: url("../img/fog-1.png");
+  background: url("https://strooton.sirv.com/fog-1.png");
   background-repeat: repeat-x;
   background-position: center;
   background-size: contain;
@@ -47,7 +47,7 @@ body {
 }
 
 .fog-2 {
-  background: url("../img/fog-2.png");
+  background: url("https://strooton.sirv.com/fog-2.png");
   background-repeat: repeat-x;
   background-position: center;
   background-size: contain;
